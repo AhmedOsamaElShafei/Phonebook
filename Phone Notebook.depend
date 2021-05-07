@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1576872501 source:g:\term 3\programming\phone notebook\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ahmed.h"
+
+1577274208 source:g:\term 3\programming\phone notebook\ahmed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Ahmed.h"
+
+1576924431 g:\term 3\programming\phone notebook\ahmed.h
+
